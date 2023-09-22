@@ -10,6 +10,12 @@ menuliskan kueri :
 ```
 ip.src ==192.168.254.129 && ftp
 ```
+
+atau
+
+```
+ftp
+```
 ![Alt text](1-1.png)
 
 dari file pcap user melakukan STOR file
