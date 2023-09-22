@@ -1,7 +1,7 @@
 # Jarkom-Modul-1-D16-2023
 # D16 
-# MAS DICKY TOLONG DIISIIII
-# Widian Sasi Disertasiani ( 5025211024)
+### MAS DICKY TOLONG DIISIIII
+### Widian Sasi Disertasiani ( 5025211024)
 # SOAL MODUL 1
 
 7. Berapa jumlah packet yang menuju IP 184.87.193.88?
